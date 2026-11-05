@@ -10,7 +10,7 @@
 
 ## 🌏 Find Me:
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-8b5cf6?style=for-the-badge&logo=githubpages&logoColor=white)](https://piyushdevops410.github.io/)
+[![Website](https://img.shields.io/badge/Website-8b5cf6?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyYTEwIDEwIDAgMSAwIDAgMjAgMTAgMTAgMCAwIDAgMC0yMHptNi45IDloLTNhMTUuNiAxNS42IDAgMCAwLTEuMy01LjJBOCA4IDAgMCAxIDE4LjkgMTF6TTEyIDRjLjggMSAxLjYgMyAxLjkgN2gtMy44QzEwLjQgNyAxMS4yIDUgMTIgNHpNNC4zIDEzaDNhMTUuNiAxNS42IDAgMCAwIDEuMyA1LjJBOCA4IDAgMCAxIDQuMyAxM3ptMy0yaC0zYTggOCAwIDAgMSA0LjMtNS4yQTE1LjYgMTUuNiAwIDAgMCA3LjMgMTF6TTEyIDIwYy0uOC0xLTEuNi0zLTEuOS03aDMuOGMtLjMgNC0xLjEgNi0xLjkgN3ptMi40LTEuOGMuNy0xLjQgMS4yMDAtMy4yMDAgMS4zMDAtNS4yMDBoM2E4IDggMCAwIDEtNC4zMDAgNS4yMDB6Ii8+PC9zdmc+&logoColor=white)](https://piyushdevops410.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/piyush-koshti-devops)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/piyushdevops410)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:piyushdevops410@gmail.com)

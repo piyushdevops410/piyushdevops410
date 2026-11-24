@@ -1,4 +1,4 @@
-# Hi I'm Piyush Koshti 👋
+# Hi I'm Piyush Koshti / Project Manager👋
 
 - 🌱 I'm an **AWS Cloud / DevOps Engineer** in Ahmedabad, India, with **6+ years of software development experience** plus **1+ year of hands-on DevOps experience**.
 - ☁️ I build and automate AWS infrastructure with **Terraform**, CI/CD pipelines with **Jenkins**, containers with **Docker**, **Kubernetes** on EKS with **Helm** and HPA autoscaling, image scanning with **Trivy**, and monitoring with **Prometheus** and **Grafana**.
